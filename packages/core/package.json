@@ -1,6 +1,6 @@
 {
   "name": "@gys-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "jingaier <986511905@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: Run testing from core\""
   },
   "dependencies": {
-    "@gys-cli-dev/utils": "^1.0.0"
+    "@gys-cli-dev/utils": "^1.0.1"
   }
 }
