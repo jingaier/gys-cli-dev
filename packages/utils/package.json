@@ -1,0 +1,21 @@
+{
+  "name": "@gys-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "jingaier <986511905@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: Run testing from core\""
+  },
+  "dependencies": {
+  }
+}

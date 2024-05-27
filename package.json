@@ -1,0 +1,15 @@
+{
+  "name": "gys-cli-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: Run testing from gys-cli-dev\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.8.0"
+  }
+}
